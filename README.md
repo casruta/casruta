@@ -1,4 +1,4 @@
-# About me: 
+## About me: 
 I am a University of Alberta Philosophy graduate who and a data science autodidact. I'm primarly interested in Canadian crime-related data.
 
 ## Technical Toolkit
