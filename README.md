@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me: 
+I am a University of Alberta Philosophy graduate who and a data science autodidact. I'm primarly interested in Canadian crime-related data.
 
-<!--
-**77CRuta/77CRuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Toolkit
+Languages: Python, R, SQL
 
-Here are some ideas to get you started:
+## Libraries: 
+Pandas, Polars, Matplotlib, Tidyverse, Seaborne 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Research & Projects
+I leverage my analytical background to interpret complex datasets, specifically looking at how socioeconomic factors influence regional crime statistics. My goal is to use data-driven insights to better understand national security and public policy challenges.
+
+## Get in Touch
+Email: Ruta@ualberta.ca
