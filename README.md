@@ -7,4 +7,9 @@ Languages: Python, R, SQL
 Libraries: 
 Pandas, Polars, Matplotlib, Tidyverse, Seaborne 
 
-Email: Ruta@ualberta.ca
+||Info|
+|-----|-----|
+|Email|Ruta@ualberta.ca|
+|Blog:|https://casruta.github.io|
+
+
