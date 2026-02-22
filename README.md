@@ -1,5 +1,5 @@
 ## About me: 
-University of Alberta Philosophy grad with an interest in data analytics. Primarly interested in Canadian crime-related data.
+University of Alberta Philosophy grad with an interest in data analytics. Primarly interested in data related to Economics and Crime. 
 
 Technical Toolkit
 Languages: Python, R, SQL
